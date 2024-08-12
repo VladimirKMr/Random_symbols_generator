@@ -1,3 +1,5 @@
-### Console application.
-### Just a character generator.
-### One file Source.cpp and the Visual Studio project files.
+### Генератор символов, консольное приложение.
+- Исполняемый файл под Windows собран и расположен в директории ```\generator\x64\Release\random.exe```
+- Вся программа реализована в одном файле ```\generator\Source.cpp```
+### Вид программы:
+<img src=""/>
